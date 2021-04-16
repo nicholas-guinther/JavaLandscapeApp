@@ -1,0 +1,3 @@
+Jack Black#123 Easy Street, Gallipolis, OH 45621#Grass#20.0#30.0#3000.0
+Mary Wilson#9821 N 75th Ave, Gallipolis, OH 45631#Grass#50.0#40.0#10000.0
+Nick Guinther#3 Edgemont Drice, Gallipolis, OH 45631#Grass#29.0#20.0#2900.0
